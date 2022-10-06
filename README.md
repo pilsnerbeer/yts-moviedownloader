@@ -1,7 +1,15 @@
 # yts-moviedownloader
-YTS Movie downloader used to download movies from YTS / YIFY Movies designed to work with QBittorrent.
+YTS Movie downloader used to download movies from YTS / YIFY Movies designed to work with QBittorrent. Search for a movie, then select (number from the list) which movie to download.
 
-Usage:
+![Screenshot_2](https://user-images.githubusercontent.com/36133540/194340723-0a441c87-5bcb-4853-86df-6cbc6e13501c.png)
+
+
+
+
+
+-----
+
+Setup
 
 in QBittorrent, enable WebUI and fill in authentication details. Optionally disable authentication on localhost
 
